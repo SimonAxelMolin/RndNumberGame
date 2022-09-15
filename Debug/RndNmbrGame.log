@@ -1,0 +1,3 @@
+﻿  GameFile.cpp
+C:\Users\simon.molin1\source\repos\RndNmbrGame\RndNmbrGame\GameFile.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RndNmbrGame.vcxproj -> C:\Users\simon.molin1\source\repos\RndNmbrGame\Debug\RndNmbrGame.exe
